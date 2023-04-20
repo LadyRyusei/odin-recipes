@@ -1,0 +1,68 @@
+body {
+    font-size: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #4B2D0B;
+    border-style: inset;
+}
+
+h1 {
+    color:#FEF2E8;
+    font-size: 3.75em;
+    text-align: center;
+    background-color: #02A553;
+    border-style: solid;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.opening {
+    color:#FEF2E8;
+    font-size: 1.25em;
+    padding-top: 40px;
+    padding-left: 375px;
+    padding-right: 300px;
+    padding-bottom: 100px;
+    line-height: 42px;
+}
+    
+.recipes {
+    list-style-type: none;
+    float: right;
+    background-color:#F97111;
+    border-style: solid;
+    padding: 12px;
+    padding-bottom: 400px; /* put extra padding on bottom to simulate more recipes */
+}
+
+a:hover{
+    color:#FEF2E8;
+}
+
+.bean-bowl {
+    float: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-style: solid;
+}
+
+.beanman {
+    float: right;
+    border: #02A553 solid;
+}
+
+.the-goods {
+    background-color: #F97111;
+    border-style: solid;
+    margin-right: 875px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+
+.outro {
+  padding-top: 50px;  
+}
